@@ -1,0 +1,33 @@
+{
+	"name": "tr-rawput",
+	"version": "0.1.0",
+	"description": "Small promise-based utility function to http/https PUT raw data",
+	"main": "rawput.js",
+    "dependencies": {
+	},
+	"scripts": {
+		"test": "node ./test/rawput-test.js"
+	},
+	"engines": {
+		"node": ">=4.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rinne/node-tr-rawput.git"
+	},
+	"keywords": [
+		"encryption",
+		"cipher",
+		"bitwise"
+	],
+	"author": {
+		"name": "Timo J. Rinne",
+		"email": "tri@iki.fi",
+		"url": "https://github.com/rinne/"
+	},
+	"license": "GPL-2.0",
+	"bugs": {
+		"url": "https://github.com/rinne/node-tr-rawput/issues"
+	},
+	"homepage": "https://github.com/rinne/node-tr-rawput#readme"
+}
